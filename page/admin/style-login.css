@@ -1,0 +1,60 @@
+body{
+	background-color: #07172e;
+}
+
+.footer{
+	margin-top: 2%;
+	background-color: #040d1a;
+	color: white;
+}
+
+.footer img{
+	margin-top: 2%;
+	margin-right: 2%;
+	margin-bottom: 2%;
+	height: 70px;
+}
+
+.footer h4{
+	margin-top: 2%;
+}
+
+#kontak h4{
+	color: #fd3e4e;
+}
+
+.login{
+	margin-top: 160px;
+	margin-bottom: 200px;
+	color: #fd3e4e;
+}
+
+.login img{
+	height: 100px;
+}
+
+.login .form-group{
+	margin-top: 20px;
+}
+
+.login button{
+	margin-top: 20px;
+}
+
+.signup{
+	margin-top: 90px;
+	margin-bottom: 200px;
+	color: #fd3e4e;
+}
+
+.signup h1{
+	color: #00EEB5;
+}
+
+.signup .form-group{
+	margin-top: 20px;
+}
+
+.signup button{
+	margin-top: 20px;
+}
