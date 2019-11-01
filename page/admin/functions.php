@@ -1,7 +1,7 @@
 <?php 
 // koneksi ke database
 // $conn = mysqli_connect("localhost", "root", "" , "physics_expo");
-$conn = mysqli_connect("localhost", "physicse_root", "anggaalifa30" , "physicse_physics_expo");
+$conn = mysqli_connect("localhost", "physicse_root", "xxxxxxxxxxxx" , "physicse_physics_expo");
 
 function query($query) {
 	global $conn;
