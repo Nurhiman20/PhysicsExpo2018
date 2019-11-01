@@ -4,7 +4,7 @@ if (isset($_SESSION['login'])) {
   header("Location: page/dashboard");
   exit;
 }
-// $conn = mysqli_connect("localhost", "physicse_root", "anggaalifa30", "physicse_physics_expo"s);
+// $conn = mysqli_connect("localhost", "physicse_root", "", "physicse_physics_expo"s);
 $conn = mysqli_connect("localhost", "root", "", "physics_expo");
 
 if (isset($_POST['masuk'])) {
